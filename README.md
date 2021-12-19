@@ -1,3 +1,3 @@
 # HelloPackage
 
-A description of this package.
+Simple Hello Print
